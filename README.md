@@ -7,12 +7,11 @@ NodeJs Application
 
 ###### when the application is up and running follow the below
     Navigate to http://localhost:3000/
-    Click Register
-    Create one user with following details ( application will recognize this user as admin )
+    Click Login
         Name: SYS_ADMIN
         email: systemadmin@poorvika.com
         password: admin123
-    Try login with this user details
+    Try login with this user details (system will recognize this user as admin)
 
 ###### About the application
 	Ability for the users to register through a registration form (unique emailID)
